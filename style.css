@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(128, 179, 162);}
+#section .tam{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+#section .tam .bir{
+    border-radius: 30px ;
+    margin-left: 50px;
+    display: inline-block;
+    width: 13%;
+   background-color: white;
+   color: black;
+
+}
+#section .tam .iki{
+    border-radius: 30px ;
+    margin-left: 50px;
+    display: inline-block;
+    width: 20%;
+    background-color: white;
+    color: black;
+    
+    
+}
+#section .tam .iki img{
+    border-radius: 10px 10px 0 0;
+}
+#section .tam .uc{
+    border-radius: 30px ;
+    margin-left: 50px;
+    display: inline-block;
+    width: 20%;
+    background-color: white;
+    color: black;
+   
+}
+#section .tam a button{
+    color:rgba(97, 86, 86, 0.301);
+    background-color: white ;
+    border: none;
+    font-size: 13px;
+}
+#section .tam a button:hover{
+    color: blue;
+    transition: 3sn;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+    width: 100%;
+}
+body .div{
+    background-color: white;
+    border-radius: 10px;
+     padding: 40px;
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 13rem;
+   
+    
+}
+body .div button{
+    color: white;
+    background-color: brown;
+    border: 20px;
+    padding: 14px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px  brown;
+    
+}
+body .div .ok img{
+    width: 35%;
+    margin-top: -110rem;
+    border-radius: 100%;
+    margin-left: -90px;
+    height: 100px;
+    border: 2px solid red;
+   
+}
